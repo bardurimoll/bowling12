@@ -4942,6 +4942,175 @@ body {
     -webkit-justify-content: center;
   }
 }
+.cid-r17HH4nf9C {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/strike-rod-6-1250x800-3-1250x800.jpg");
+}
+.cid-r17HH4nf9C .text {
+  letter-spacing: 0.03em;
+  line-height: 1.7;
+}
+.cid-r17HH4nf9C .mbr-text {
+  width: 100%;
+  height: auto;
+}
+@media (max-width: 991px) {
+  .cid-r17HH4nf9C .row {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .cid-r17HH4nf9C .content {
+    flex: 0 0 100%;
+    max-width: 100%;
+    margin-left: 0;
+  }
+}
+.cid-r17HbKCR87 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-r17HbKCR87 blockquote {
+  color: #232323;
+  font-size: inherit;
+  font-style: normal;
+}
+.cid-r17HbKCR87 .mbr-iconfont {
+  z-index: 1;
+  position: absolute;
+  font-size: 9rem;
+  color: #232323;
+  opacity: .1;
+}
+.cid-r17HbKCR87 .mbr-iconfont.right-top {
+  right: -1rem;
+  top: -1rem;
+}
+.cid-r17HbKCR87 BLOCKQUOTE {
+  color: #000000;
+  margin-left: -100px;
+}
+.cid-r15rlxae5y {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+.cid-r15rlxae5y .mbr-section-title {
+  margin: 0;
+}
+.cid-r15rlxae5y .underline {
+  margin-top: -0.5rem;
+  margin-bottom: -0.5rem;
+}
+.cid-r15rlxae5y .underline .line {
+  width: 3rem;
+  height: 2px;
+  background: #444444;
+  display: inline-block;
+}
+.cid-r15rlxae5y .media-row {
+  display: flex;
+  justify-content: center;
+}
+.cid-r15rlxae5y .team-item {
+  transition: all .2s;
+  margin: 2rem 0;
+}
+.cid-r15rlxae5y .team-item .item-image {
+  position: relative !important;
+}
+.cid-r15rlxae5y .team-item .item-image img {
+  width: 100%;
+}
+.cid-r15rlxae5y .team-item .item-image::after {
+  background: #000000;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  opacity: 0;
+  visibility: hidden;
+  transition: .4s;
+}
+.cid-r15rlxae5y .team-item .item-name p {
+  margin-bottom: 0;
+}
+.cid-r15rlxae5y .team-item .item-role p {
+  margin-bottom: 0;
+}
+.cid-r15rlxae5y .team-item .item-caption {
+  background: #efefef;
+}
+.cid-r15rlxae5y .item-social {
+  display: block;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 100%;
+  z-index: 1;
+}
+.cid-r15rlxae5y .item-social li {
+  display: inline-block;
+  opacity: 0;
+  visibility: hidden;
+  transition: all 0.3s ease-in-out;
+}
+.cid-r15rlxae5y .item-social li a span {
+  border-radius: 50%;
+  background-color: #444444;
+  color: white;
+  font-size: 14px;
+  width: 3em;
+  margin: 2px;
+  height: 3em;
+  line-height: 3em;
+  display: block;
+  padding: 0.1rem 0.9rem;
+}
+.cid-r15rlxae5y .item-social li a span:hover {
+  background-color: #ffbc00;
+  color: #000000;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-1 {
+  transition-delay: .1s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-2 {
+  transition-delay: .2s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-3 {
+  transition-delay: .3s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-4 {
+  transition-delay: .4s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-5 {
+  transition-delay: .5s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .team-item:hover .item-social > li.social-6 {
+  transition-delay: .6s;
+  opacity: 1;
+  visibility: visible;
+}
+.cid-r15rlxae5y .builderCard .item-image::after {
+  border-bottom-left-radius: 5rem;
+}
 .cid-qKqJSIC0LJ .navbar {
   min-height: 77px;
   transition: all .3s;
@@ -5228,125 +5397,6 @@ body {
   .cid-r15pyt11Ym .mbr-section-title {
     margin-left: -0.8rem;
   }
-}
-.cid-r15rlxae5y {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r15rlxae5y .mbr-section-title {
-  margin: 0;
-}
-.cid-r15rlxae5y .underline {
-  margin-top: -0.5rem;
-  margin-bottom: -0.5rem;
-}
-.cid-r15rlxae5y .underline .line {
-  width: 3rem;
-  height: 2px;
-  background: #444444;
-  display: inline-block;
-}
-.cid-r15rlxae5y .media-row {
-  display: flex;
-  justify-content: center;
-}
-.cid-r15rlxae5y .team-item {
-  transition: all .2s;
-  margin: 2rem 0;
-}
-.cid-r15rlxae5y .team-item .item-image {
-  position: relative !important;
-}
-.cid-r15rlxae5y .team-item .item-image img {
-  width: 100%;
-}
-.cid-r15rlxae5y .team-item .item-image::after {
-  background: #000000;
-  content: "";
-  height: 100%;
-  left: 0;
-  position: absolute;
-  top: 0;
-  width: 100%;
-  opacity: 0;
-  visibility: hidden;
-  transition: .4s;
-}
-.cid-r15rlxae5y .team-item .item-name p {
-  margin-bottom: 0;
-}
-.cid-r15rlxae5y .team-item .item-role p {
-  margin-bottom: 0;
-}
-.cid-r15rlxae5y .team-item .item-caption {
-  background: #efefef;
-}
-.cid-r15rlxae5y .item-social {
-  display: block;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  width: 100%;
-  z-index: 1;
-}
-.cid-r15rlxae5y .item-social li {
-  display: inline-block;
-  opacity: 0;
-  visibility: hidden;
-  transition: all 0.3s ease-in-out;
-}
-.cid-r15rlxae5y .item-social li a span {
-  border-radius: 50%;
-  background-color: #444444;
-  color: white;
-  font-size: 14px;
-  width: 3em;
-  margin: 2px;
-  height: 3em;
-  line-height: 3em;
-  display: block;
-  padding: 0.1rem 0.9rem;
-}
-.cid-r15rlxae5y .item-social li a span:hover {
-  background-color: #ffbc00;
-  color: #000000;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-1 {
-  transition-delay: .1s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-2 {
-  transition-delay: .2s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-3 {
-  transition-delay: .3s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-4 {
-  transition-delay: .4s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-5 {
-  transition-delay: .5s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .team-item:hover .item-social > li.social-6 {
-  transition-delay: .6s;
-  opacity: 1;
-  visibility: visible;
-}
-.cid-r15rlxae5y .builderCard .item-image::after {
-  border-bottom-left-radius: 5rem;
 }
 .cid-r15o6KZwPj {
   padding-top: 120px;
